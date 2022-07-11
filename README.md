@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Thi-mee
-- 👀 I’m interested in making cool websites, and making them more cool.
-- 🌱 I’m currently learning front end web development
-- I'd love to make friends too.
+# Hello there, I am Timilehin Adenuga :man:
+I am a software engineering intern at ALX
+
+I’m currently learning front end web development
+
 - And If you come across any opportunity, share with me.
 <!--- 📫 How to reach me ... --->
 
