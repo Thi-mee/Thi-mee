@@ -1,7 +1,6 @@
 # Hello there, I am Timilehin Adenuga :man:
 I am a software engineering intern at ALX
-
-I’m currently learning front end web development
+I am a full stack web development intern at Zuri
 
 - And If you come across any opportunity, share with me.
 <!--- 📫 How to reach me ... --->
