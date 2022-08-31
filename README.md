@@ -29,5 +29,7 @@ Thi-mee/Thi-mee is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+## &#x1f4c8; My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Thi-mee&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thi-mee&langs_count=5&theme=tokyonight)]()
