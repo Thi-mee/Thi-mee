@@ -6,8 +6,10 @@
 
 I am a junior software engineer
 
-
-:loudspeaker: Feel free to reach out to me if you have any questions or you need me on your team project
+<!--- 📫 How to reach me ... --->
+:loudspeaker: Feel free to reach out to me if you have any questions or you need me on your team project\
+[Twitter](https://twitter.com/timi_nihel)\
+[Email](mailto:timi.nihel@gmail.com)
 
 ## :computer: Tech Skills 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -15,10 +17,6 @@ I am a junior software engineer
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)\
 ![NODEJS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) </br>
-**Data Structures and Algorithms**
-
-- And If you come across any opportunity, share with me.
-<!--- 📫 How to reach me ... --->
 
 <!---
 Thi-mee/Thi-mee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
