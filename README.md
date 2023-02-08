@@ -4,10 +4,7 @@
 </div>
 
 
-I am a 
-* software engineering intern at ALX
-* software development trainee at Xplug
-* a software trainee at Oaperg Technologies
+I am a junior software engineer
 
 
 :loudspeaker: Feel free to reach out to me if you have any questions or you need me on your team project
