@@ -4,7 +4,7 @@
 </div>
 
 <h3 style="color:orange;"> A bit about me 😁</h3>
-I am a **Software Engineer** with 4+ years of experience building and maintaining web applications; of which involves delivering scalable, user-friendly, and well optimized applications, collaboration with other developers and designers, troubleshooting and debugging complex problems. I have worked with various stacks rooting from Javascript, C, C#, and python. 
+I am a <b>Software Engineer</b> and <b>AWS Certified Cloud Architect</b> with 4+ years of experience building and maintaining web applications; of which involves delivering scalable, user-friendly, and well optimized applications, collaboration with other developers and designers, troubleshooting and debugging complex problems. I have worked with various stacks rooting from Javascript, C, C#, and python. 
 I’m passionate about learning and I'm always eager to learn new technologies; I believe learning never ends and that a lot of things are interconnected in the grand scheme of things. 
 I’m a big fan of Animes, Popcorn, Mangas, outings, Foood!
 
