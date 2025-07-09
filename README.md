@@ -1,12 +1,43 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi, I am <span style="font-size:36">Timilehin Adenuga</span></h1>
+  <h1 align="center">Hi there, I'm Timilehin 👋🏾</h1>
+  <p align="center">
+    <i>Software Engineer | Systems Thinker | Builder of Impact-Driven Tools</i>
+  </p>
 </div>
 
-<h3 style="color:orange;"> A bit about me 😁</h3>
-I am a <b>Software Engineer</b> and <b>AWS Certified Cloud Architect</b> with 4+ years of experience building and maintaining web applications; of which involves delivering scalable, user-friendly, and well optimized applications, collaboration with other developers and designers, troubleshooting and debugging complex problems. I have worked with various stacks rooting from Javascript, C, C#, and python. 
-I’m passionate about learning and I'm always eager to learn new technologies; I believe learning never ends and that a lot of things are interconnected in the grand scheme of things. 
-I’m a big fan of Animes, Popcorn, Mangas, outings, Foood!
+---
+
+### 🌍 About Me
+
+Hi, I’m Timilehin — a Software Engineer and AWS Certified Cloud Architect with over 4 years of experience building scalable, user-friendly, and performance-optimized web applications. I’ve worked across diverse tech stacks, from JavaScript/TypeScript to C, C#, and Python — solving problems in industries like fintech, edtech, and health tech.
+
+I thrive in collaborative environments where clean architecture, thoughtful design, and code quality meet real-world impact. Whether it’s building secure banking systems, optimizing backend latency, or mentoring junior developers, I bring a mindset that blends **engineering excellence with human empathy**.
+
+Beyond code, I’m deeply passionate about learning — I believe everything is interconnected in the grand scheme of things. That curiosity is what drives me to constantly explore new technologies, patterns, and philosophies of software design.
+
+> 🧠 “Learning never ends.”  
+> 🎯 “Build things that matter.”  
+> 🍿 “Also, popcorn is life.”
+
+When I’m not coding, you’ll probably find me binging anime, reading manga, exploring new food spots, or just hanging out with great people.
+
+---
+
+### 📌 Things I Value:  
+- Impactful solutions over fancy code  
+- Learning + teaching as a lifestyle  
+- Teamwork and clear communication  
+- Clean, testable, and scalable systems
+
+---
+
+### 💡 What Inspires Me
+* 🧠 Turning ideas into real-world tools
+* 📈 Building platforms that scale with ease and performance
+* 🤝 Collaborating with kind, curious, purpose-driven people
+* 🧭 Solving problems in community, education, wellness & impact spaces
+* ✝️ Using tech as a channel for service, stewardship, and community
 
 ### Personal Note 🖊️
 I'm always looking for new ways to challenge myself and improve my skills. If you have an interesting project or idea, please don't hesitate to reach out! Links to contact me are below.
